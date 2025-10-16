@@ -11,5 +11,4 @@ testing*
 testing/
 work/
 null/
-*.conf
-*.config
+
